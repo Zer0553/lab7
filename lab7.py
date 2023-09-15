@@ -136,3 +136,6 @@ def print_array(array):
         print()
     print()
 
+program = Program()
+program.start()
+
